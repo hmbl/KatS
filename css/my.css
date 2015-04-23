@@ -1,0 +1,282 @@
+div{}
+.navbar{
+	height:50px;
+	width:100%;
+	bottom:0px;
+	float:bottom;
+	position: absolute;
+	bottom:50px;
+}
+input{}
+#slider-2{
+	width:100%;
+}
+h1{}
+h2{
+	color: black;
+}
+
+p{
+	font-family: 'Adobe Garamond Pro', serif;
+	    position: absolute;
+}
+
+.story{
+	font-size: 0.7em;
+	font-family: 'Adobe Garamond Pro', serif;
+	    position: absolute;
+}
+.story-title{
+	font-family:Rockwell, serif;
+}
+/* Titles to stories  */
+.cloud-title{
+    position:absolute;
+	width:50%;
+	top:205px;
+	left:120px;
+}
+.rain-title{
+    position:absolute;
+	width:50%;
+	bottom:370px;
+	left:100px;
+}
+.fish-title{
+    position:absolute;
+	width:60%;
+	top:90px;
+	left:400px;
+}
+.night-title{
+	position:absolute;
+	width:40%;
+	left:450px;
+	top:60px;
+}
+.tree-title{
+	position:absolute;
+	width:40%;
+	left:450px;
+	top:60px;
+}
+/* KING AND THE FISHING NET pg 3 */
+.fish-text{
+ 	position:absolute;
+	width:60%;
+	left:400px;
+	top:150px;
+}
+/* TITLE PAGE */
+.title-pg-title{
+	left: 150px;
+	top:130px;
+    position: absolute;
+    width:80%;
+    font-size: 36px;
+    font-family:Rockwell, serif;
+}
+/* TITLE PAGE */
+.title-pg-author{
+	left: 150px;
+	top:200px;
+    position: absolute;
+    width:80%;
+    font-size: 16px;
+    font-family:Rockwell, serif;
+    color: red;
+}
+
+.text-cloud{
+	position:absolute;
+	width:50%;
+	bottom:120px;
+	left:120px;
+}
+
+.text-rain{
+	width:70%;
+	bottom:180px;
+	left:100px;
+}
+
+.title-king{
+	position: absolute;
+	width:22%;
+	bottom:0px;
+	float: bottom;
+}
+
+.text-tree{
+	position:absolute;
+	width:50%;
+	top:135px;
+	left:450px;
+}
+
+img{}
+/* TITLE PG img */
+.title{
+	width: 50%;
+	left:25%;
+	position: absolute;
+}
+.title-king{
+	left: 150px;
+    float:bottom;
+    width:30%;
+    bottom:0px;
+}
+.title-ocean{
+	width: 25.1%;
+    right: 0px;
+    top:0px;
+    float: right;
+}
+.text-night{
+	position:absolute;
+	width:50%;
+	right:65px;
+	top:120px;
+}
+
+/* KING AND THE CLOUD #page-one  */
+.cloud1{
+	position:absolute;
+	width:40%;
+}
+.cloud2{
+	position:absolute;
+	width:40%;	
+}
+.cloud3{
+	position:absolute;
+	width:30%;	
+}
+.cloud-king{
+	position:absolute;
+	width:20%;
+	right:146px;
+	bottom:70px;
+}
+.hill-cloud{
+	position:absolute;
+	width:80%;
+	bottom:0px;
+	right:0px;
+}
+
+/* KING AND THE RAIN #page-two  */
+
+.rain{
+	position: absolute;
+	top: 0px;
+	float: top;
+	width: 240px;
+	right:200px;
+}
+.cloud{
+	position: absolute;
+	top:0px;
+	width: 340px;
+	right:200px;
+}
+.rain-king{
+	width:20%;
+	position: absolute;
+	bottom: 90px;
+	right:200px;
+	z-index: 2;
+}
+
+.ledge-rain{
+	position:absolute;
+	width:70%;
+	bottom:0px;
+	right:0px;
+}
+
+/* KING AND THE FISHING NET #page-three  */
+.fishingnet-king{
+	position: absolute;	
+	width: 100%;
+	left:0px;
+	bottom: 0px;	
+	margin: 0px;
+	float:left;
+}
+
+/* KING AND THE NIGHT #page-four  */
+
+.night-bground{
+	position: absolute;
+	top:0px;
+	bottom:0px;
+	width:100%;
+	left:30%;
+	height:100%;
+}
+.night-candleflame{
+	position: absolute;	
+	width: 0.8%;
+	z-index: 5;
+	right: 340px;
+	bottom:360px;
+}
+.king-night{
+	position:absolute;
+	width: 25%;
+    right: 100px;
+    bottom: 0px;
+    float: right;
+}
+
+/* KING AND THE TREE #page-five  */
+
+.tree-bird1{
+	position:absolute;
+	width:120px;
+	left:180px;
+	top:560px;
+}
+.tree-leaf1{
+	position:absolute;
+	width:120px;
+	left:200px;
+	bottom:0px;
+}
+.tree-king{
+	position:absolute;
+	width:16%;
+	bottom:0px;
+	right:100px;
+}
+.tree-tree{
+	position:absolute;
+	bottom:-100px;
+	width: 10%;
+}
+
+/* KING AND THE CREDITS #page-credits  */
+
+.tree-leaf2{
+	position: absolute;
+	width:20%;
+	bottom:0px;
+	left:50%;
+
+}
+.text-geckopress{
+	width:30%;
+	left:50%;	
+	padding-left: 350px;
+	padding-right: 350px;
+	padding-top: 150px;
+}
+
+body{
+	text-transform: none;
+	font-size:30px;
+	height:auto;
+    max-height:100%;
+}
